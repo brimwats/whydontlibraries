@@ -49,6 +49,12 @@ hasChildren = true
   url = "galleries-museums"
   weight = 3
 
+  [[menu.main]]
+  parent = "sections"
+  name = "Special Collections"
+  url = "special-collections"
+  weight = 4
+
 
 ############################# Default Parameters ##########################
 [params]

@@ -3,21 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://whydontlibraries.brimwats.com/fr/archives/ownership/</loc>
-    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://whydontlibraries.brimwats.com/archives/ownership/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://whydontlibraries.brimwats.com/fr/archives/ownership/"
-                />
-  </url>
-  
-  <url>
     <loc>https://whydontlibraries.brimwats.com/fr/galleries-museums/linux/</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
@@ -29,36 +14,6 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://whydontlibraries.brimwats.com/fr/galleries-museums/linux/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://whydontlibraries.brimwats.com/fr/libraries/requirments/</loc>
-    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://whydontlibraries.brimwats.com/libraries/requirments/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://whydontlibraries.brimwats.com/fr/libraries/requirments/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://whydontlibraries.brimwats.com/fr/libraries/install/</loc>
-    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://whydontlibraries.brimwats.com/libraries/install/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://whydontlibraries.brimwats.com/fr/libraries/install/"
                 />
   </url>
   
@@ -78,66 +33,6 @@
   </url>
   
   <url>
-    <loc>https://whydontlibraries.brimwats.com/fr/archives/manage/</loc>
-    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://whydontlibraries.brimwats.com/archives/manage/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://whydontlibraries.brimwats.com/fr/archives/manage/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://whydontlibraries.brimwats.com/fr/libraries/configuration/</loc>
-    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://whydontlibraries.brimwats.com/libraries/configuration/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://whydontlibraries.brimwats.com/fr/libraries/configuration/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://whydontlibraries.brimwats.com/fr/libraries/elements/</loc>
-    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://whydontlibraries.brimwats.com/libraries/elements/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://whydontlibraries.brimwats.com/fr/libraries/elements/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://whydontlibraries.brimwats.com/fr/archives/bill/</loc>
-    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://whydontlibraries.brimwats.com/archives/bill/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://whydontlibraries.brimwats.com/fr/archives/bill/"
-                />
-  </url>
-  
-  <url>
     <loc>https://whydontlibraries.brimwats.com/fr/galleries-museums/routing/</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
@@ -149,36 +44,6 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://whydontlibraries.brimwats.com/fr/galleries-museums/routing/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://whydontlibraries.brimwats.com/fr/libraries/customization/</loc>
-    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://whydontlibraries.brimwats.com/libraries/customization/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://whydontlibraries.brimwats.com/fr/libraries/customization/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://whydontlibraries.brimwats.com/fr/archives/payment/</loc>
-    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://whydontlibraries.brimwats.com/archives/payment/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://whydontlibraries.brimwats.com/fr/archives/payment/"
                 />
   </url>
   
@@ -198,21 +63,6 @@
   </url>
   
   <url>
-    <loc>https://whydontlibraries.brimwats.com/fr/archives/profile/</loc>
-    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://whydontlibraries.brimwats.com/archives/profile/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://whydontlibraries.brimwats.com/fr/archives/profile/"
-                />
-  </url>
-  
-  <url>
     <loc>https://whydontlibraries.brimwats.com/fr/galleries-museums/windows/</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
@@ -228,21 +78,6 @@
   </url>
   
   <url>
-    <loc>https://whydontlibraries.brimwats.com/fr/libraries/</loc>
-    <lastmod>2018-12-29T11:02:05+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://whydontlibraries.brimwats.com/libraries/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://whydontlibraries.brimwats.com/fr/libraries/"
-                />
-  </url>
-  
-  <url>
     <loc>https://whydontlibraries.brimwats.com/fr/</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
@@ -254,21 +89,6 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://whydontlibraries.brimwats.com/fr/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://whydontlibraries.brimwats.com/fr/archives/</loc>
-    <lastmod>2018-12-28T11:02:05+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://whydontlibraries.brimwats.com/archives/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://whydontlibraries.brimwats.com/fr/archives/"
                 />
   </url>
   
