@@ -6,10 +6,6 @@
     <description>Recent content in Frequently Asked Questions on Why Don&#39;t Libraries</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>The Hugo Documents are copyright © [gethugothemes](https://gethugothemes.com/) 2020.</copyright>
-    
-	<atom:link href="https://whydontlibraries.brimwats.com/faq/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <copyright>The Hugo Documents are copyright © [gethugothemes](https://gethugothemes.com/) 2020.</copyright><atom:link href="https://whydontlibraries.brimwats.com/faq/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

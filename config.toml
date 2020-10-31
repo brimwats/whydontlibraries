@@ -33,27 +33,33 @@ hasChildren = true
 
   [[menu.main]]
   parent = "sections"
-  name = "Libraries"
-  url = "libraries"
+  name = "Pan-GLAMS"
+  url = "pan-glams"
   weight = 1
 
   [[menu.main]]
   parent = "sections"
-  name = "Archives"
-  url = "archives"
+  name = "Libraries"
+  url = "Libraries"
   weight = 2
+
+  [[menu.main]]
+  parent = "sections"
+  name = "Archives"
+  url = "Archives"
+  weight = 3
 
   [[menu.main]]
   parent = "sections"
   name = "Galleries & Museums"
   url = "galleries-museums"
-  weight = 3
+  weight = 4
 
   [[menu.main]]
   parent = "sections"
   name = "Special Collections"
   url = "special-collections"
-  weight = 4
+  weight = 5
 
 
 ############################# Default Parameters ##########################
@@ -86,15 +92,11 @@ link = "#"
 
 [[params.social]]
 icon = "ti-twitter-alt" # themify icon pack : https://themify.me/themify-icons
-link = "#"
+link = "https://twitter.com/brimwats"
   
 [[params.social]]
 icon = "ti-github" # themify icon pack : https://themify.me/themify-icons
-link = "#"
-  
-[[params.social]]
-icon = "ti-linkedin" # themify icon pack : https://themify.me/themify-icons
-link = "#"
+link = "https://github.com/brimwats"
 
 ################################ English Language ######################
 [Languages.en]
@@ -115,36 +117,9 @@ placeholder = "Have a question? Just ask here or enter terms"
 [Languages.en.params.cta]
 enable = true
 title = "Didn't find an answer to your question?"
-content = "Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam."
+content = "Feel free to reach out to us via the contact form here or via twitter."
 # call to action button
 [Languages.en.params.cta.button]
 enable = true
 label = "contact us"
-link = "contact"
-
-
-################################### Franch Language ######################
-[Languages.fr]
-languageName = "Fr"
-languageCode = "fr-fr"
-weight = 2
-home = "Accueil"
-copyright = "Les documents Hugo sont sous copyright © [gethugothemes](https://gethugothemes.com/) 2020."
-
-# banner
-[Languages.fr.params.banner]
-title = "Comment pouvons nous aider?"
-subtitle = "Trouvez rapidement des conseils et des réponses auprès de notre équipe d'assistance ou contactez-nous."
-bg_image = "images/banner.jpg"
-placeholder = "Avoir une question? Il suffit de demander ici ou de saisir les termes"
-
-# call to action
-[Languages.fr.params.cta]
-enable = true
-title = "Vous n'avez pas trouvé de réponse à votre question?"
-content = "Contactez-nous pour plus de détails sur les services supplémentaires et la tarification du travail personnalisé"
-# call to action button
-[Languages.fr.params.cta.button]
-enable = true
-label = "Contactez nous"
 link = "contact"
