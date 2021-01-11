@@ -7,65 +7,29 @@ draft: false
 # search related keywords
 keywords: ["old","dusty","hidden",]
 ---
-
-Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id. Cras fringilla convallis elit, at eleifend mi interam.
-
-{{< notice note >}}
-  This is a simple note.
-{{</ notice >}}
-
-{{< notice tip >}}
-  This is a simple tip.
-{{</ notice >}}
-
-{{< notice info >}}
-  This is a simple info.
-{{</ notice >}}
+This is a common gripe among archivists. A number of experts [replied to this question](https://twitter.com/brimwats/status/1308814131949047808):
 
 
-{{< tabs >}}
-  {{< tab "first" >}}
-   This is first tab
-  {{</ tab >}}
+[Dr. Elizabeth Haven Hawley](https://twitter.com/ehh_ptr) of the University of Florida points out that
 
-  {{< tab "second" >}}
-  this is second tab
-  {{</ tab >}}
+> If you can learn about it through Google, it definitely is not hidden. And usually you can.
 
-  {{< tab "third" >}}
-  this is third tab
-  {{</ tab >}}
-{{</ tabs >}}
 
-Nulla non sollicitudin. Morbi sit amet laoreet ipsum, vel pretium mi. Morbi varius, tellus in accumsan blandit, elit ligula eleifend velit, luctus mattis ante nulla condimentum nulla. Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit.
+[John Overholt](https://twitter.com/john_overholt), Curator of Early Books & Manuscripts, Houghton Library, Harvard University, posting a picture of very clean macbooks, says:
 
-### Image Example
+> Re: dusty, I always say that in fact we work very hard to make sure that isn't the case. We have air filtration, we even literally vacuum the stacks! Re: old, this is the last image in the Houghton 75th anniversary book.
 
-Nunc porta malesuada porta. Etiam tristique vestibulum dolor at ultricies. Proin hendrerit sapien sed erat fermentum, at commodo velit consectetur.
 
-![image example](img-1.jpg "image")
+This question makes [Emily Higgs](https://twitter.com/emilyhiggs24), Digital Archivist for the Friends Historical Library at Swarthmore College sad:
 
-Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis. Phasellus at massa sit amet ante semper fermentum sed eget lectus. Quisque id dictum magna, et dapibus turpis.
+> “Hidden” makes me sad because sometimes it means we need to be doing better outreach and visibility work. “Dusty” makes me mad because it insults our custodial staff who are awesome and do their jobs very well
 
-### Example Of Code Block
 
-In accumsan lacus ac neque maximus dictum. Phasellus eleifend leo id mattis bibendum. Curabitur et purus turpis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;
+[Marya](https://twitter.com/maryaevh), a collections manager jokes that archivists should 
 
-```html
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="/assets/css/main.css">
-  <link rel="shortcut icon" type="image/png" href="/assets/img/favicon.png" >
-  <script src="/assets/js/main.js"></script>
-</head>
-```
+> just start doing it to other professions. "Scientists in a dusty biochemical lab recently engineered a functioning heart organoid..." "Deep in a hidden old courtroom, a judge today declared a mistrial..."
 
-### Text and Quote
+### Don't Kill Cats!
+This is such a common joke that it has [become a meme](https://dustyarchivekittendeaths.tumblr.com/):
 
-Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis. Phasellus at massa sit amet ante semper fermentum sed eget lectus. Quisque id dictum magna turpis.
-
-> Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet
-
-Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis. Phasellus at massa sit amet ante semper fermentum sed eget lectus. Quisque id dictum magna, et dapibus turpis.Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis. Phasellus at massa sit amet ante semper fermentum sed eget lectus. Quisque id dictum magna, et dapibus turpis.
+![image example](DustyCat.jpg "image")
