@@ -8,183 +8,21 @@ draft: false
 keywords: ["white gloves","rules"]
 ---
 
-# Heading 1
-## Heading 2
-### Heading 3
-#### Heading 4
-##### Heading 5
-###### Heading 6
+[Cassia](https://twitter.com/aravahshifra) [notes](https://twitter.com/aravahshifra/status/1301940543551873026) that
 
-<hr>
+> I tell them for paper materials, it’s easier to feel the pages/material, offering better control
+Clean hands help prevent accidental mishandling, tearing, and dirt/contamination on reusable gloves
 
-##### Emphasis
 
-Emphasis, aka italics, with *asterisks* or _underscores_.
-
-Strong emphasis, aka bold, with **asterisks** or __underscores__.
-
-Combined emphasis with **asterisks and _underscores_**.
-
-Strikethrough uses two tildes. ~~Scratch this.~~
-
-<hr>
-
-##### Link
-[I'm an inline-style link](https://www.google.com)
-
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
-
-[I'm a reference-style link][Arbitrary case-insensitive reference text]
-
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
-
-[You can use numbers for reference-style link definitions][1]
-
-Or leave it empty and use the [link text itself].
-
-URLs and URLs in angle brackets will automatically get turned into links. 
-http://www.example.com or <http://www.example.com> and sometimes 
-example.com (but not on Github, for example).
-
-Some text to show that the reference links can follow later.
-
-[arbitrary case-insensitive reference text]: https://www.mozilla.org
-[1]: http://slashdot.org
-[link text itself]: http://www.reddit.com
-
-<hr>
-
-##### Paragraph
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus, facilis placeat pariatur! Voluptatem, sed harum pariatur adipisci voluptates voluptatum cumque, porro sint minima similique magni perferendis fuga! Optio vel ipsum excepturi tempore reiciendis id quidem? Vel in, doloribus debitis nesciunt fugit sequi magnam accusantium modi neque quis, vitae velit, pariatur harum autem a! Velit impedit atque maiores animi possimus asperiores natus repellendus excepturi sint architecto eligendi non, omnis nihil. Facilis, doloremque illum. Fugit optio laborum minus debitis natus illo perspiciatis corporis voluptatum rerum laboriosam.
-
-<hr>
-
-##### Ordered List
-
-1. List item
-2. List item
-3. List item
-4. List item
-5. List item
-
-<hr>
-
-##### Unordered List
-
-* List item
-* List item
-* List item
-* List item
-* List item
-
-<hr>
-
-#### Notice
-
-{{< notice note >}}
-  This is a simple note.
-{{< /notice >}}
-
-{{< notice tip >}}
-  This is a simple tip.
-{{< /notice >}}
-
-{{< notice info >}}
-  This is a simple info.
-{{< /notice >}}
-
-<hr>
-
-#### Tab
-
-{{< tabs >}}
-
-  {{< tab "first" >}}
-   This is first tab
-  {{< /tab >}}
-
-  {{< tab "second" >}}
-  this is second tab
-  {{< /tab >}}
-
-  {{< tab "third" >}}
-  this is third tab
-  {{< /tab >}}
-
-{{</ tabs >}}
-
-<hr>
-
-##### Code and Syntax Highlighting
-
-Inline `code` has `back-ticks around` it.
-
-```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
-```
+[Allie Alvis](https://twitter.com/book_historia) wrote a blog post for the Smithstonian that discusses this further: [No Love for White Gloves, or: the Cotton Menace](https://blog.library.si.edu/blog/2019/11/21/no-love-for-white-gloves-or-the-cotton-menace/#.X1J5ashKhPY):
  
-```python
-s = "Python syntax highlighting"
-print s
-```
- 
-```
-No language indicated, so no syntax highlighting. 
-But let's throw in a <b>tag</b>.
-```
+- Hands in gloves lack the tactility and manual dexterity of bare hands. Handling a book with gloved hands could lead to accidentally torn pages when the gloves catch on fragile edges, or a dropped book if the gloves prove to be loose or slippery.
+- Cotton gloves in particular have a tendency to lift fragments from pages, including pigments. Their fibers can catch in cracks that are invisible to the naked eye, further damaging friable pigments and inks.
+- This also means that cotton gloves retain a lot of dirt, making them not so clean after all! In this same vein, gloves cause the hands to sweat, and this moisture can penetrate the gloves to wind up on the books. Ew!
 
-<hr>
-
-##### Blockquote
-
-> This is a blockquote example.
-
-<hr>
-
-##### Inline HTML
-
-You can also use raw HTML in your Markdown, and it'll mostly work pretty well.
-
-<dl>
-  <dt>Definition list</dt>
-  <dd>Is something people use sometimes.</dd>
-
-  <dt>Markdown in HTML</dt>
-  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
-</dl>
-
-
-<hr>
-
-##### Tables
-
-Colons can be used to align columns.
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
-There must be at least 3 dashes separating each header cell.
-The outer pipes (|) are optional, and you don't need to make the 
-raw Markdown line up prettily. You can also use inline Markdown.
-
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
-
-<hr>
-
-##### Image
+Finally, a helpful flowchart from [Derangement and Description](https://derangementanddescription.wordpress.com/2014/01/13/do-i-need-to-wear-gloves-in-the-archives-a-helpful-flow-chart/)
 
 ![image](img-1.jpg)
 
-<hr>
+> Will you be handling photographs? You might need to wear gloves. Are you a bandleader, performing a medical procedures, or Mickey Mouse? You are already wearing gloves. Otherwise? Go crazy with those naked fingers (but not too crazy, you’re in an archives!)
 
-##### Youtube video
-
-{{< youtube C0DPdy98e4c >}}

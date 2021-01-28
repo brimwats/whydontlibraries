@@ -8,64 +8,20 @@ draft: false
 keywords: ["discovered","historian","journalist",]
 ---
 
-Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id. Cras fringilla convallis elit, at eleifend mi interam.
-
-{{< notice note >}}
-  This is a simple note.
-{{</ notice >}}
-
-{{< notice tip >}}
-  This is a simple tip.
-{{</ notice >}}
-
-{{< notice info >}}
-  This is a simple info.
-{{</ notice >}}
-
-
-{{< tabs >}}
-  {{< tab "first" >}}
-   This is first tab
-  {{</ tab >}}
-
-  {{< tab "second" >}}
-  this is second tab
-  {{</ tab >}}
-
-  {{< tab "third" >}}
-  this is third tab
-  {{</ tab >}}
-{{</ tabs >}}
-
-Nulla non sollicitudin. Morbi sit amet laoreet ipsum, vel pretium mi. Morbi varius, tellus in accumsan blandit, elit ligula eleifend velit, luctus mattis ante nulla condimentum nulla. Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit.
-
-### Image Example
-
-Nunc porta malesuada porta. Etiam tristique vestibulum dolor at ultricies. Proin hendrerit sapien sed erat fermentum, at commodo velit consectetur.
+via [Derangement and Description:](https://derangementanddescription.wordpress.com/2015/06/16/you-didnt-discover-that-in-the-archives/)
 
 ![image example](img-1.jpg "image")
 
-Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis. Phasellus at massa sit amet ante semper fermentum sed eget lectus. Quisque id dictum magna, et dapibus turpis.
+> “If you were successful in the archives, somebody along the line gave you some help. There was a great archivist somewhere in your research process. Somebody recognized the value of the materials and made sure they ended up in an archives. Somebody invested in preserving them and organizing them and making them available to researchers. Somebody helped orient you to the archives and brought out materials for you to look at. If you found a document that no one knew was there—you didn’t discover that. Somebody else made that happen.”
 
-### Example Of Code Block
+Another archivist [notes](https://twitter.com/AceOnFire77/status/1300537848072941568) that
 
-In accumsan lacus ac neque maximus dictum. Phasellus eleifend leo id mattis bibendum. Curabitur et purus turpis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;
+> That we collected/curated/cataloged/arranged/etc. the item, which led to the person locating the item within our library/archive. The item was already "discovered". (I dislike that term in general.)
 
-```html
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="/assets/css/main.css">
-  <link rel="shortcut icon" type="image/png" href="/assets/img/favicon.png" >
-  <script src="/assets/js/main.js"></script>
-</head>
-```
+[Ryan P. Randall,](https://twitter.com/foureyedsoul), a community college librarian tries to poise this question a different way:
 
-### Text and Quote
+> I ask them whether they meant "encountered"; what lead them to instead frame that person's initial encounter as a "discovery"; whose presence/ labor/ knowledge is eluded/ made invisible via that frame?
 
-Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis. Phasellus at massa sit amet ante semper fermentum sed eget lectus. Quisque id dictum magna turpis.
+The University of Virgina has a handy discussion on this here: [Sylvia Plath’s new short story was never ‘lost’ – so why is the media saying it was ‘just discovered’?](https://news.library.virginia.edu/2019/01/28/10262/)
 
-> Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet
-
-Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis. Phasellus at massa sit amet ante semper fermentum sed eget lectus. Quisque id dictum magna, et dapibus turpis.Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis. Phasellus at massa sit amet ante semper fermentum sed eget lectus. Quisque id dictum magna, et dapibus turpis.
+As does the [Ransom Center](https://sites.utexas.edu/ransomcentermagazine/2011/02/23/how-are-unpublished-manuscripts-unearthed-at-the-ransom-center/).
