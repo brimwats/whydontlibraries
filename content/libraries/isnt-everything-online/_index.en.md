@@ -8,183 +8,38 @@ draft: false
 keywords: ["google","online"]
 ---
 
-# Heading 1
-## Heading 2
-### Heading 3
-#### Heading 4
-##### Heading 5
-###### Heading 6
+This question always brings up a [significant amount of discussion](https://twitter.com/brimwats/status/1326571892099211268)
 
-<hr>
+[Jay Colbert](https://twitter.com/_WildeAtHeart), metadata librarian, said that
 
-##### Emphasis
+> Because these institutions cannot exist without the people/labor that curate and manage resources and the access to them. Even online resources require management and maintenance.
 
-Emphasis, aka italics, with *asterisks* or _underscores_.
+[Jessamyn](https://twitter.com/jessamyn), a public librarian, points to issues with information glut and bad metadata:
 
-Strong emphasis, aka bold, with **asterisks** or __underscores__.
+> Try to find an obituary from a random person (i.e. not a celeb) who died in the 90s. Go on, I'll wait.
 
-Combined emphasis with **asterisks and _underscores_**.
+[Allie Alvis](https://twitter.com/book_historia/) makes an argument about the uniqueness of physical items:
 
-Strikethrough uses two tildes. ~~Scratch this.~~
+> Coming from a special collections angle, I would talk about the inherent uniqueness of hand-press era books, as well as the different kinds of physical evidence that do not translate well into a digital object.
 
-<hr>
+[Eric Colleary, Curator of Theatre & Performing Arts at the Ransom Center](https://twitter.com/ecolleary) discussed copyright:
 
-##### Link
-[I'm an inline-style link](https://www.google.com)
-
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
-
-[I'm a reference-style link][Arbitrary case-insensitive reference text]
-
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
-
-[You can use numbers for reference-style link definitions][1]
-
-Or leave it empty and use the [link text itself].
-
-URLs and URLs in angle brackets will automatically get turned into links. 
-http://www.example.com or <http://www.example.com> and sometimes 
-example.com (but not on Github, for example).
-
-Some text to show that the reference links can follow later.
-
-[arbitrary case-insensitive reference text]: https://www.mozilla.org
-[1]: http://slashdot.org
-[link text itself]: http://www.reddit.com
-
-<hr>
-
-##### Paragraph
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus, facilis placeat pariatur! Voluptatem, sed harum pariatur adipisci voluptates voluptatum cumque, porro sint minima similique magni perferendis fuga! Optio vel ipsum excepturi tempore reiciendis id quidem? Vel in, doloribus debitis nesciunt fugit sequi magnam accusantium modi neque quis, vitae velit, pariatur harum autem a! Velit impedit atque maiores animi possimus asperiores natus repellendus excepturi sint architecto eligendi non, omnis nihil. Facilis, doloremque illum. Fugit optio laborum minus debitis natus illo perspiciatis corporis voluptatum rerum laboriosam.
-
-<hr>
-
-##### Ordered List
-
-1. List item
-2. List item
-3. List item
-4. List item
-5. List item
-
-<hr>
-
-##### Unordered List
-
-* List item
-* List item
-* List item
-* List item
-* List item
-
-<hr>
-
-#### Notice
-
-{{< notice note >}}
-  This is a simple note.
-{{< /notice >}}
-
-{{< notice tip >}}
-  This is a simple tip.
-{{< /notice >}}
-
-{{< notice info >}}
-  This is a simple info.
-{{< /notice >}}
-
-<hr>
-
-#### Tab
-
-{{< tabs >}}
-
-  {{< tab "first" >}}
-   This is first tab
-  {{< /tab >}}
-
-  {{< tab "second" >}}
-  this is second tab
-  {{< /tab >}}
-
-  {{< tab "third" >}}
-  this is third tab
-  {{< /tab >}}
-
-{{</ tabs >}}
-
-<hr>
-
-##### Code and Syntax Highlighting
-
-Inline `code` has `back-ticks around` it.
-
-```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
-```
- 
-```python
-s = "Python syntax highlighting"
-print s
-```
- 
-```
-No language indicated, so no syntax highlighting. 
-But let's throw in a <b>tag</b>.
-```
-
-<hr>
-
-##### Blockquote
-
-> This is a blockquote example.
-
-<hr>
-
-##### Inline HTML
-
-You can also use raw HTML in your Markdown, and it'll mostly work pretty well.
-
-<dl>
-  <dt>Definition list</dt>
-  <dd>Is something people use sometimes.</dd>
-
-  <dt>Markdown in HTML</dt>
-  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
-</dl>
+> My usual answer: Copyright & the physical volume of material make it difficult to put everything we have online. It's also labor-intensive. When an item is digitized, it may only take a minute to capture the image, but it can take a lot longer to create & record the metadata.
 
 
-<hr>
+[Cassia](https://twitter.com/aravahshifra) points out that libries are not warehouses:
 
-##### Tables
+> I’d also point out this view is of libs/archives as mere warehouses. We provide many services (including labor that goes with digitization/access) and engage in meaningful labor and scholarship
 
-Colons can be used to align columns.
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+> Maybe a pivot answer that may not be useful for your purposes, but after getting at direct concerns about material/labor I’d want to address what they think our purpose is and patrons who may be left out of such a discussion
 
-There must be at least 3 dashes separating each header cell.
-The outer pipes (|) are optional, and you don't need to make the 
-raw Markdown line up prettily. You can also use inline Markdown.
 
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
+[Necia Parker-Gibson](https://twitter.com/WiseAcreNecia) talks about demand:
 
-<hr>
+> Many things aren't online, and won't be put online- or at least not for free. I'm thinking of a lot of proprietary information, gray literature, and the like.  Not all of that is in libraries, but if there wasn't demand from libraries, a lot of it would wither.
 
-##### Image
 
-![image](img-1.jpg)
+[Jaclyn](https://twitter.com/jacwilso) points to issues with access:
 
-<hr>
-
-##### Youtube video
-
-{{< youtube C0DPdy98e4c >}}
+> Everything *isn't* online, and not all materials that are online are fully accessible (re: copyright as well as things like searchable PDFs). Not to mention not everyone has regular access to the internet, and there are so many in person services that have no online equivalent

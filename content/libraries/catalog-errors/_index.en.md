@@ -7,184 +7,20 @@ draft: false
 # search related keywords
 keywords: ["catalogs","errors"]
 ---
+[Amy Leigh, a rare books cataloger,](https://twitter.com/rarebkcat), gave a well-detailed and [fantastic answer](https://twitter.com/rarebkcat/status/1328769328850870275) to this question:
 
-# Heading 1
-## Heading 2
-### Heading 3
-#### Heading 4
-##### Heading 5
-###### Heading 6
+We've been collecting and describing things for years/decades/centuries, and over the years the way we describe materials and the technology we use to navigate those descriptions has changed a great deal. 
 
-<hr>
+However, when what we do changes, there's no magic wand to transform a description done in the old-style to a description done in the new-style, so descriptive data from decades (or centuries) ago will often live in a catalog alongside data created last week. 
 
-##### Emphasis
+This often leads to inconsistencies or things that look funny or, sometimes, errors because the description didn't change when our descriptive practices or technologies or knowledge changed. 
 
-Emphasis, aka italics, with *asterisks* or _underscores_.
+Alongside decades (centuries) of descriptive practices living next to each other, there are also material realities; technical services depts, who create the descriptions you access in a catalog, are often understaffed. 
 
-Strong emphasis, aka bold, with **asterisks** or __underscores__.
+Therefore, they can't spend as long as they might wish creating descriptions for materials, enhancing descriptions for materials, updating descriptions for materials, and ensuring consistency across the catalog.
 
-Combined emphasis with **asterisks and _underscores_**.
+That's... the short answer. A longer answer would talk about computer-mediated searching (online catalogs) vs. a person searching and being able to interpret what they're seeing (card catalogs, printed catalogs)...it might also talk about different imperatives for different parts of the collections on the inconsistency point.
 
-Strikethrough uses two tildes. ~~Scratch this.~~
+tl;dr - People are creating the descriptions at a particular time in a particular place with particular reasons and material reality.
 
-<hr>
-
-##### Link
-[I'm an inline-style link](https://www.google.com)
-
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
-
-[I'm a reference-style link][Arbitrary case-insensitive reference text]
-
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
-
-[You can use numbers for reference-style link definitions][1]
-
-Or leave it empty and use the [link text itself].
-
-URLs and URLs in angle brackets will automatically get turned into links. 
-http://www.example.com or <http://www.example.com> and sometimes 
-example.com (but not on Github, for example).
-
-Some text to show that the reference links can follow later.
-
-[arbitrary case-insensitive reference text]: https://www.mozilla.org
-[1]: http://slashdot.org
-[link text itself]: http://www.reddit.com
-
-<hr>
-
-##### Paragraph
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus, facilis placeat pariatur! Voluptatem, sed harum pariatur adipisci voluptates voluptatum cumque, porro sint minima similique magni perferendis fuga! Optio vel ipsum excepturi tempore reiciendis id quidem? Vel in, doloribus debitis nesciunt fugit sequi magnam accusantium modi neque quis, vitae velit, pariatur harum autem a! Velit impedit atque maiores animi possimus asperiores natus repellendus excepturi sint architecto eligendi non, omnis nihil. Facilis, doloremque illum. Fugit optio laborum minus debitis natus illo perspiciatis corporis voluptatum rerum laboriosam.
-
-<hr>
-
-##### Ordered List
-
-1. List item
-2. List item
-3. List item
-4. List item
-5. List item
-
-<hr>
-
-##### Unordered List
-
-* List item
-* List item
-* List item
-* List item
-* List item
-
-<hr>
-
-#### Notice
-
-{{< notice note >}}
-  This is a simple note.
-{{< /notice >}}
-
-{{< notice tip >}}
-  This is a simple tip.
-{{< /notice >}}
-
-{{< notice info >}}
-  This is a simple info.
-{{< /notice >}}
-
-<hr>
-
-#### Tab
-
-{{< tabs >}}
-
-  {{< tab "first" >}}
-   This is first tab
-  {{< /tab >}}
-
-  {{< tab "second" >}}
-  this is second tab
-  {{< /tab >}}
-
-  {{< tab "third" >}}
-  this is third tab
-  {{< /tab >}}
-
-{{</ tabs >}}
-
-<hr>
-
-##### Code and Syntax Highlighting
-
-Inline `code` has `back-ticks around` it.
-
-```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
-```
- 
-```python
-s = "Python syntax highlighting"
-print s
-```
- 
-```
-No language indicated, so no syntax highlighting. 
-But let's throw in a <b>tag</b>.
-```
-
-<hr>
-
-##### Blockquote
-
-> This is a blockquote example.
-
-<hr>
-
-##### Inline HTML
-
-You can also use raw HTML in your Markdown, and it'll mostly work pretty well.
-
-<dl>
-  <dt>Definition list</dt>
-  <dd>Is something people use sometimes.</dd>
-
-  <dt>Markdown in HTML</dt>
-  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
-</dl>
-
-
-<hr>
-
-##### Tables
-
-Colons can be used to align columns.
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
-There must be at least 3 dashes separating each header cell.
-The outer pipes (|) are optional, and you don't need to make the 
-raw Markdown line up prettily. You can also use inline Markdown.
-
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
-
-<hr>
-
-##### Image
-
-![image](img-1.jpg)
-
-<hr>
-
-##### Youtube video
-
-{{< youtube C0DPdy98e4c >}}
+Finally, technical services staff are people and work within their own knowledges and biases. Descriptions and descriptive practices are not neutral and are shaped by the people that create them.
